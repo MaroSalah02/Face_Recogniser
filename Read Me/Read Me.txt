@@ -1,0 +1,8 @@
+Before Using Face Recognition :
+-------------------------------
+1- Setup openCV 2.4.13.3 with python 2.7.13 (showed in Tutorial) (They Must Be Same Version As I wrote )
+2- Install numpy ,Pillow and matplotlib	(showed in Tutorial)
+3- You MUST be in room with Suitable amount of light.
+And your Face doesen't exposed to High amount of light For best Results.
+4- For best detection to be in same distance as in Face registration .
+5- you must be in same place you started your face recognition program.

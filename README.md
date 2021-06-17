@@ -8,6 +8,6 @@
 
 3- You <b>MUST</b> be in room with Suitable amount of light.
 
-And your Face doesen't exposed to High amount of light For best Results.
+And your Face shouldn't be exposed to High amount of light For best Results.
 
 4- you <b> Must </b> be in same place you started your face recognition program.

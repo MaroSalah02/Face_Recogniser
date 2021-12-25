@@ -2,6 +2,7 @@ import cv2
 import os
 from PIL import Image
 import numpy as np
+#Using opencv to train the model with few images with the person's Face
 def recognize():
     recognizer=cv2.createLBPHFaceRecognizer()
     path='.//Recognizer'
